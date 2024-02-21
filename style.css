@@ -3,6 +3,11 @@
   src: url(./L0x4DF02iFML4hGCyMqgXS9sjg.ttf);
 }
 
+@font-face {
+  font-family: ;
+  src: url(/);
+}
+
 * {
   margin: 0;
   padding: 0;
